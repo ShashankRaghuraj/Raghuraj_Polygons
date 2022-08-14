@@ -1,7 +1,3 @@
-//Shashank Raghuraj
-//Due 10/23/2020
-//Task: Create another child class called Rectangle. Find the area of the rectangle. Determine if the rectangle is a square based on side lengths
-
 public class Rectangle extends Polygons
 {
   //Creates a boolean called is Square and sets it to false
