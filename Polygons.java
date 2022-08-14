@@ -1,7 +1,3 @@
-// Polygons.java  (added the 's' because of an existing Java Polygon class)
-// McKeen 
-// Inheritance and an abstract class
-
 abstract public class Polygons   //class definition
 {
 	private double width;
